@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hello! I'm Ashajyothi Thelagathoti
 
-<!--
-**Ashajyothi356/Ashajyothi356** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Education**: B.Tech in Electronics and Communication Engineering, Krishnaveni Engineering College for Women.NarasaraoPet
 
-Here are some ideas to get you started:
+💼 **Current Role**: I worked as a Graduate Engineer Trainee in HCL Technologies, Nagpur.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 **Skills & Interests**:
+- Languages & Tools: Java,CoreJava,Spring FrameWork, Springboot,Microservices Architecture,MySQLServer,MySQL Workbench
+- Interests: Backend Developement, Networking, Customer Satisfaction
+
+📫 **Contact**:
+- LinkedIn:www.linkedin.com/in/ashajyothi-thelagathoti-7798a620a
+- Email: ashajyothithelagathoti@gmail.com
+
+💡 **Fun Fact**:"I'm passionate about making tech accessible to everyone!
+                 I love problem solving.
+
+
+
+  
