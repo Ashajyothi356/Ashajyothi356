@@ -1,7 +1,7 @@
 # 👋 Hello! I'm Ashajyothi Thelagathoti
 
-🎓 **Education**: B.Tech in Electronics and Communication Engineering, Krishnaveni Engineering 
-                   College for Women.NarasaraoPet
+🎓 **Education**: B.Tech in Electronics and Communication Engineering, 
+                  Krishnaveni Engineering College for Women.NarasaraoPet
 
 💼 **Current Role**: I worked as a Graduate Engineer Trainee in HCL Technologies, Nagpur.
 
