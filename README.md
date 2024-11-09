@@ -16,14 +16,24 @@
     Contractual Shadowing: -
                            • A led project to digitize product offboarding, reducing manual intervention and
                              streamlining workflow.
+
+                             
    • Reduced offboarding time from years to target time frame) through
      automation and team collaboration.
+
+     
    • Established a digital workflow for information flow and task delegation between
      COH Lending, Credit Card, and KYC Teams.
+
+     
    • Implemented Service Level Agreements (SLAs) for timely response and task
      completion.
+
+     
    • Increased efficiency and improved collaboration between teamsfor fasterproduct
      offboarding.
+
+     
 - Technologies:Java,MySQL database
 - Highlights: Reducing manual intervention and
               Streamlining workflow.
