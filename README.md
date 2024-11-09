@@ -16,11 +16,9 @@
 
 ## 🚀 Projects: 
  ** Project 1:  HCL Technologies.
-    
-    
+ 
     OFFBOARDING OF A PRODUCT
-    
-    
+     
     Contractual Shadowing: -
     
     
