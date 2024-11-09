@@ -23,10 +23,10 @@
    • Implemented Service Level Agreements (SLAs) for timely response and task
      completion.
    • Increased efficiency and improved collaboration between teamsfor fasterproduct
-     offboarding
+     offboarding.
 - Technologies:Java,MySQL database
 - Highlights: Reducing manual intervention and
-              Streamlining workflow
+              Streamlining workflow.
   
      
 
