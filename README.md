@@ -22,7 +22,9 @@
     
     
     Contractual Shadowing: -
-                           • A led project to digitize product offboarding, reducing manual intervention and
+    
+    
+    • A led project to digitize product offboarding, reducing manual intervention and
                              streamlining workflow.
 
                              
