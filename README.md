@@ -14,8 +14,8 @@
  ** Project 1:  HCL Technologies.
     OFFBOARDING OF A PRODUCT
     Contractual Shadowing: -
-   • A led project to digitize product offboarding, reducing manual intervention and
-     streamlining workflow.
+                           • A led project to digitize product offboarding, reducing manual intervention and
+                             streamlining workflow.
    • Reduced offboarding time from years to target time frame) through
      automation and team collaboration.
    • Established a digital workflow for information flow and task delegation between
