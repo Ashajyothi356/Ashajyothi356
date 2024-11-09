@@ -6,13 +6,21 @@
 💼 **Current Role**: I worked as a Graduate Engineer Trainee in HCL Technologies, Nagpur.
 
 🌐 **Skills & Interests**:
- - Languages & Tools: Java,CoreJava,Spring FrameWork, Springboot,Microservices 
+ - Languages & Tools:
+ 
+      Java,CoreJava,Spring FrameWork, Springboot,Microservices 
                       Architecture,MySQLServer,MySQL Workbench
- - Interests: Backend Developement, Networking, Customer Satisfaction
+ - Interests:
+ 
+      Backend Developement, Networking, Customer Satisfaction
 
 ## 🚀 Projects: 
  ** Project 1:  HCL Technologies.
+    
+    
     OFFBOARDING OF A PRODUCT
+    
+    
     Contractual Shadowing: -
                            • A led project to digitize product offboarding, reducing manual intervention and
                              streamlining workflow.
