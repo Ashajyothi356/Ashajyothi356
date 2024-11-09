@@ -8,11 +8,11 @@
 🌐 **Skills & Interests**:
  - Languages & Tools:
  
-      Java,CoreJava,Spring FrameWork, Springboot,Microservices 
+       Java,CoreJava,Spring FrameWork, Springboot,Microservices 
                       Architecture,MySQLServer,MySQL Workbench
  - Interests:
  
-      Backend Developement, Networking, Customer Satisfaction
+         Backend Developement, Networking, Customer Satisfaction
 
 ## 🚀 Projects: 
  ** Project 1:  HCL Technologies.
